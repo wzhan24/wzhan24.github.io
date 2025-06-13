@@ -65,14 +65,6 @@ A full curriculum vitae is available here:
 
 ---
 
-## Teaching
-
-### Virginia Tech – Teaching Assistant
-- **CS 5804: Introduction to Artificial Intelligence** – Spring 2024  
-- **CS 5824: Machine Learning and Perception** – Fall 2023
-
----
-
 ## Talks
 
 - *“UniMate: Unified Learning for Mechanical Metamaterial Design”*  
@@ -83,6 +75,6 @@ A full curriculum vitae is available here:
 ## Contact
 
 **Email**: wzhan24 [at] vt [dot] edu  
-**Office**: Torgersen Hall, Virginia Tech  
+**Office**: D&DS, Virginia Tech  
 **GitHub**: [wzhan24](https://github.com/wzhan24)  
 **Google Scholar**: [Scholar Profile](https://scholar.google.com/)
